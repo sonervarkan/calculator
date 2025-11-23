@@ -18,13 +18,13 @@ This project demonstrates DOM manipulation, event handling, and basic arithmetic
 ---
 
 ## Project Structure
-
+```
 calculator-app/
 │
 ├── index.html
 ├── script.js
 └── style.css
-
+```
 ---
 
 ## Code Overview
@@ -110,7 +110,7 @@ Improve mobile responsiveness
 
 ## License
 
-This project is not licensed yet. You may add a license if needed.
+This project is not licensed yet.
 
 ## Acknowledgements
 
